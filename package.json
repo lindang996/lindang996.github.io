@@ -1,0 +1,16 @@
+{
+  "name": "openseeyondoc",
+  "version": "1.0.0",
+  "description": "开放平台文档网站",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "seeyon",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}

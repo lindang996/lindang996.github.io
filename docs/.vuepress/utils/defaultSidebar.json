@@ -1,0 +1,78 @@
+{
+    "/quickStart/": [{
+        "title": "快速开始",
+        "children": [{
+            "title": "技术概要",
+            "path": "/quickStart/01技术概要/",
+            "children": []
+        }, {
+            "title": "快速开发",
+            "path": "/quickStart/02快速开发/",
+            "children": []
+        }, {
+            "title": "环境搭建和发布",
+            "path": "/quickStart/03环境搭建和发布/",
+            "children": []
+        }, {
+            "title": "问题分析和调试",
+            "path": "/quickStart/04问题分析和调试/",
+            "children": []
+        }]
+    }],
+    "/platformTechnology/": [{
+        "title": "平台技术",
+        "children": [{
+            "title": "什么是平台技术",
+            "path": "/platformTechnology/01什么是平台技术/",
+            "children": []
+        }, {
+            "title": "开发规范",
+            "path": "/platformTechnology/02开发规范/",
+            "children": []
+        }, {
+            "title": "OpenAPI接口开发",
+            "path": "/platformTechnology/03OpenAPI接口开发/",
+            "children": []
+        }, {
+            "title": "CTP技术平台",
+            "path": "/platformTechnology/04CTP技术平台/",
+            "children": []
+        }, {
+            "title": "CIP集成平台",
+            "path": "/platformTechnology/05CIP集成平台/",
+            "children": []
+        }, {
+            "title": "CMP移动平台",
+            "path": "/platformTechnology/06CMP移动平台/",
+            "children": []
+        }, {
+            "title": "CAP应用平台",
+            "path": "/platformTechnology/07CAP应用平台/",
+            "children": []
+        }]
+    }],
+    "/appTechnology/": [{
+        "title": "应用技术",
+        "children": [{
+            "title": "什么是应用技术",
+            "path": "/appTechnology/01什么是应用技术/",
+            "children": []
+        }, {
+            "title": "公文",
+            "path": "/appTechnology/02公文/",
+            "children": []
+        }, {
+            "title": "协同",
+            "path": "/appTechnology/03协同/",
+            "children": []
+        }, {
+            "title": "工作流",
+            "path": "/appTechnology/04工作流/",
+            "children": []
+        }, {
+            "title": "首页门户",
+            "path": "/appTechnology/05首页门户/",
+            "children": []
+        }]
+    }]
+}
